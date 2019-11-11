@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_concept_practise/static/css/main.fe4c6da7.chunk.css",
-    "main.js": "/react_concept_practise/static/js/main.8a6fd1c0.chunk.js",
-    "main.js.map": "/react_concept_practise/static/js/main.8a6fd1c0.chunk.js.map",
-    "runtime~main.js": "/react_concept_practise/static/js/runtime~main.41430127.js",
-    "runtime~main.js.map": "/react_concept_practise/static/js/runtime~main.41430127.js.map",
-    "static/css/2.266e55a5.chunk.css": "/react_concept_practise/static/css/2.266e55a5.chunk.css",
-    "static/js/2.e4c1029a.chunk.js": "/react_concept_practise/static/js/2.e4c1029a.chunk.js",
-    "static/js/2.e4c1029a.chunk.js.map": "/react_concept_practise/static/js/2.e4c1029a.chunk.js.map",
-    "index.html": "/react_concept_practise/index.html",
-    "precache-manifest.696797a840d17b9f0bddefa51f645246.js": "/react_concept_practise/precache-manifest.696797a840d17b9f0bddefa51f645246.js",
-    "service-worker.js": "/react_concept_practise/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/react_concept_practise/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.fe4c6da7.chunk.css.map": "/react_concept_practise/static/css/main.fe4c6da7.chunk.css.map"
+    "main.css": "/reactConceptsPractise/static/css/main.fe4c6da7.chunk.css",
+    "main.js": "/reactConceptsPractise/static/js/main.e31ca7bf.chunk.js",
+    "main.js.map": "/reactConceptsPractise/static/js/main.e31ca7bf.chunk.js.map",
+    "runtime~main.js": "/reactConceptsPractise/static/js/runtime~main.8f2397ea.js",
+    "runtime~main.js.map": "/reactConceptsPractise/static/js/runtime~main.8f2397ea.js.map",
+    "static/css/2.266e55a5.chunk.css": "/reactConceptsPractise/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e4c1029a.chunk.js": "/reactConceptsPractise/static/js/2.e4c1029a.chunk.js",
+    "static/js/2.e4c1029a.chunk.js.map": "/reactConceptsPractise/static/js/2.e4c1029a.chunk.js.map",
+    "index.html": "/reactConceptsPractise/index.html",
+    "precache-manifest.1a17ed4f8e2b029b90938a55b6a78286.js": "/reactConceptsPractise/precache-manifest.1a17ed4f8e2b029b90938a55b6a78286.js",
+    "service-worker.js": "/reactConceptsPractise/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/reactConceptsPractise/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.fe4c6da7.chunk.css.map": "/reactConceptsPractise/static/css/main.fe4c6da7.chunk.css.map"
   }
 }
