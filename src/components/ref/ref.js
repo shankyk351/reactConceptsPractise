@@ -10,6 +10,7 @@ class Ref extends Component {
     focusInput(){
         this.inputRef.current.focus();
     }
+    
     render() { 
         return ( 
             <div className="ref-container">
